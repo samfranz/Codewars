@@ -9,4 +9,5 @@ Really neat service that allows for you to test some of your skills in the langu
 
 ### Interested?
 
-If you're interested please use my [referral link](www.codewars.com/r/gfaO7w). It does nothing for me besides giving me 'honor'. Hopefully you enjoy and if you're interested I have my answers in this repo.
+If you're interested please use my referral link: https://www.codewars.com/r/gfaO7w. It does nothing for me besides giving me 'honor'. Hopefully you enjoy and if you're interested I have my answers in this repo.
+
